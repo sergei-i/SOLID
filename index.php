@@ -35,3 +35,7 @@ require_once 'vendor/autoload.php';
 //$order = new \App\I\Good\QuickOrder();
 //echo $order->getTotalPrice();
 
+//$report = new \App\D\Report(new \App\D\View());
+//$saver = new \App\D\FileSave('file.txt');
+//$repository = new \App\D\ReportRepository($report, $saver);
+//$repository->save();
